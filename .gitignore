@@ -104,3 +104,13 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Custom excludes — non-code assets
+/Assets/Audio/
+/Assets/Audio.meta
+/Assets/Data/
+/Assets/Data.meta
+/Assets/TextMesh Pro/
+/Assets/TextMesh Pro.meta
+/Assets/UI/
+/Assets/UI.meta
